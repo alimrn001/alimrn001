@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Ali Mehrani, an undergraduate student at the University of Tehran, majoring in Computer Engineering. My interests lie in distributed systems, cloud computing, big data, and software scalability. I'm passionate about deepening my knowledge in these areas through research and hands-on projects.
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,react,vscode,java,docker,graphql,nodejs)](https://skillicons.dev)
 
 <!--
 **alimrn001/alimrn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
